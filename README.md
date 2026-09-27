@@ -39,7 +39,7 @@ README.md
 
 3. 稼働サーバー
 
-https://akematsu.yenpoint.jp/swagger/
+https://bsvapi01.cds.tohoku.ac.jp/swagger/
 
 以降の質問には、これらの資料を根拠として回答してください。
 
