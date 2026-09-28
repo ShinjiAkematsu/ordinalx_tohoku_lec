@@ -64,7 +64,7 @@ OrdinalXを使って何ができるのか説明してください。
 特に、以下について整理してください。
 
 - BSVに関する機能
-- NFTに関する機能
+- NFT (Non Fungible Token)に関する機能
 - FT（Fungible Token）に関する機能
 - その他の主な機能
 
