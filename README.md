@@ -24,20 +24,11 @@ OrdinalX APIについてAIに質問するときは、まずCodexにAPIドキュ�
 ```text
 以下の資料を順番に確認してください。
 
-1. llms.txt と docs/api/
+1. docs/api/openapi.json
 
-README.md
-→ concepts.md
-→ getting-started.md
-→ flows.md
+ 全エンドポイントの定義と実例を確認してください。
 
-の順に読んでください。
-
-2. docs/api/openapi.json
-
-全エンドポイントの定義と実例を確認してください。
-
-3. 稼働サーバー
+2. 稼働サーバー
 
 https://bsvapi01.cds.tohoku.ac.jp/swagger/
 
