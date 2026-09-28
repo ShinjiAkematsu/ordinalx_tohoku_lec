@@ -299,6 +299,7 @@ OrdinalXに関係する処理については、
 ちなみに、BSVの送受信が正しく行われるかどうかをテストするには、少額の元手が必要です。本講座では5000Satを配布しますので、以下のフォームからご自身のレガシーアドレスまたはpaymailを送信してください（自動的に5000Satが送金されます）。
 https://docs.google.com/forms/d/e/1FAIpQLSeGRhWW8xQ5Gj1M9MTrJc-yJpOwmnpPD7VtiPSp9b7uT28MKA/viewform
 
+![送金フォームのURL](qr.png)
 
 
 ### STEP 6：おかしいところをAIと一緒に直す
